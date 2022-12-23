@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/personalportfolio/static/css/main.fa5784bf.css",
+    "main.js": "/personalportfolio/static/js/main.2cf4d530.js",
+    "static/js/787.28cb0dcd.chunk.js": "/personalportfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/deepakiitian.jpg": "/personalportfolio/static/media/deepakiitian.a13927289fc8576b1526.jpg",
+    "static/media/profile1.jpg": "/personalportfolio/static/media/profile1.4121c310f95749f89146.jpg",
+    "static/media/my-cv.pdf": "/personalportfolio/static/media/my-cv.101d9c65e41384e81f54.pdf",
+    "index.html": "/personalportfolio/index.html",
+    "main.fa5784bf.css.map": "/personalportfolio/static/css/main.fa5784bf.css.map",
+    "main.2cf4d530.js.map": "/personalportfolio/static/js/main.2cf4d530.js.map",
+    "787.28cb0dcd.chunk.js.map": "/personalportfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5784bf.css",
+    "static/js/main.2cf4d530.js"
+  ]
+}
